@@ -1,6 +1,9 @@
 # Chrome-Smart-Paste-extension
 Source code for chrome smart copy extension to enable Edge's "Link Format as Title" feature. 
 
+The extension is in the chrome store at the following link:
+https://chromewebstore.google.com/detail/smart-paste/pglmangdpklekkondhhplbkeabopmjlk 
+
 
 How It Works:
 
